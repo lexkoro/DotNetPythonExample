@@ -15,7 +15,7 @@ class PATHS:
 #######################
 class APP_SETTINGS:
     EXPORT_FILE_ENABLED = False
-    EXPORT_FILE_PATH = r"C:\Users\Alex\source\repos\DotNetPython\DotNetPython\GameTTS\tmp"
+    EXPORT_FILE_PATH = ""
     EXPORT_FILE_EXT = "wav"
 
 
